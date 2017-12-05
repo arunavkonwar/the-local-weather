@@ -1,0 +1,3 @@
+# Module the_local_weather
+# RPC service class, partial path of RPC policy file
+com.example.thelocalweather.client.GreetingService, 86D3423185FA83695C9EB8C3ECF9F843.gwt.rpc

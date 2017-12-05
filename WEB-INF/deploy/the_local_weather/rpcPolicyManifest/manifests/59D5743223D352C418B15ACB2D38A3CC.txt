@@ -1,0 +1,2 @@
+serviceClass: com.example.thelocalweather.client.GreetingService
+path: 86D3423185FA83695C9EB8C3ECF9F843.gwt.rpc
